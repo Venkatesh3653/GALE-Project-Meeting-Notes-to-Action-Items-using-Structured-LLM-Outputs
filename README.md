@@ -1,1 +1,1 @@
-# GALE-Project-Token-Cost-Analyzer-for-Telugu-Hindi-and-English-Chatbots
+# GALE-Project-Meeting-Notes-to-Action-Items-Using-Structured-LLM-Outputs
